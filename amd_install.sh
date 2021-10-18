@@ -4,7 +4,7 @@
 #Date: 2019-04-21
 #Contributors: miabo Cryptonuffe
 
-systemctl stop hivex
+#systemctl stop hivex
 miner stop
 
 echo
